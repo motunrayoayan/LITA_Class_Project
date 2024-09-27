@@ -2,7 +2,18 @@
 ---
 
 ### Project Title: Types of Data
----
+
+[Overview]{#overview)
+
+[Structure Data](#structure-data)
+
+[Examples](#examples)
+
+[SQL Code](#sql-code)
+
+[Visualization](#visualization)
+
+[Table](#table)
 
 ### Overview
 ---
@@ -11,6 +22,7 @@ In data analysis, datasets can be broadly classified into three types: structure
 ### Structure Data
 ---
 Structured data is highly organized, often stored in tabular formats such as rows and columns (like spreadsheets or databases). Each data point has a clear schema, which makes it easy to search, sort, and analyze. It is typically found in relational databases and spreadsheets.
+🏩
 
 ### Examples
 ---
@@ -32,3 +44,10 @@ WHERE CONDITION = TRUE
 ### Visualization
 
 ![fruits](https://github.com/user-attachments/assets/3e36efb7-bf5d-49c4-8e1a-64de9b4a34b1)
+
+😆
+
+### Table
+|Code 1|Code 2|Code 3|
+|------|------|------|
+|Table 1|Table 2|Table 3|
