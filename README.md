@@ -1,5 +1,5 @@
 # LITA_Class_Project
-
+---
 ### Project Title: Types of Data
 
 ### Overview
@@ -16,3 +16,8 @@ Structured data is highly organized, often stored in tabular formats such as row
 
 - Customer information in databases (names, contact details, purchase history)
 - Employee records (name, department, salary, etc.)
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
