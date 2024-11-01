@@ -1,7 +1,7 @@
 # LITA_Class_Project
 ---
 
-### Project Title: Types of Data
+### Project Title: Power BI & Data Visualization
 
 [Overview]{#overview)
 
